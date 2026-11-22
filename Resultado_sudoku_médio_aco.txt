@@ -1,0 +1,59 @@
+===== sudoku_medio_1 =====
+Instância: sudoku_medio_1 | Execução 01 | Seed: 00 | Fitness: 0 | Iterações: 513 | Avaliações: 30780 | Tempo: 163.07s | Solucionado: True
+Instância: sudoku_medio_1 | Execução 02 | Seed: 01 | Fitness: 0 | Iterações: 5763 | Avaliações: 345780 | Tempo: 1886.08s | Solucionado: True
+Instância: sudoku_medio_1 | Execução 03 | Seed: 02 | Fitness: 0 | Iterações: 1186 | Avaliações: 71160 | Tempo: 375.04s | Solucionado: True
+Instância: sudoku_medio_1 | Execução 04 | Seed: 03 | Fitness: 0 | Iterações: 4870 | Avaliações: 292200 | Tempo: 1573.43s | Solucionado: True
+Instância: sudoku_medio_1 | Execução 05 | Seed: 04 | Fitness: 0 | Iterações: 2709 | Avaliações: 162540 | Tempo: 892.54s | Solucionado: True
+Instância: sudoku_medio_1 | Execução 06 | Seed: 05 | Fitness: 0 | Iterações: 1045 | Avaliações: 62700 | Tempo: 345.64s | Solucionado: True
+Instância: sudoku_medio_1 | Execução 07 | Seed: 06 | Fitness: 0 | Iterações: 492 | Avaliações: 29520 | Tempo: 159.33s | Solucionado: True
+Instância: sudoku_medio_1 | Execução 08 | Seed: 07 | Fitness: 0 | Iterações: 5537 | Avaliações: 332220 | Tempo: 1822.87s | Solucionado: True
+Instância: sudoku_medio_1 | Execução 09 | Seed: 08 | Fitness: 0 | Iterações: 5072 | Avaliações: 304320 | Tempo: 1658.93s | Solucionado: True
+Instância: sudoku_medio_1 | Execução 10 | Seed: 09 | Fitness: 2 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2322.47s | Solucionado: False
+
+===== sudoku_medio_2 =====
+Instância: sudoku_medio_2 | Execução 01 | Seed: 00 | Fitness: 0 | Iterações: 1000 | Avaliações: 60000 | Tempo: 500.79s | Solucionado: True
+Instância: sudoku_medio_2 | Execução 02 | Seed: 01 | Fitness: 0 | Iterações: 3164 | Avaliações: 189840 | Tempo: 1598.98s | Solucionado: True
+Instância: sudoku_medio_2 | Execução 03 | Seed: 02 | Fitness: 0 | Iterações: 1120 | Avaliações: 67200 | Tempo: 559.43s | Solucionado: True
+Instância: sudoku_medio_2 | Execução 04 | Seed: 03 | Fitness: 0 | Iterações: 189 | Avaliações: 11340 | Tempo: 96.01s | Solucionado: True
+Instância: sudoku_medio_2 | Execução 05 | Seed: 04 | Fitness: 0 | Iterações: 702 | Avaliações: 42120 | Tempo: 354.27s | Solucionado: True
+Instância: sudoku_medio_2 | Execução 06 | Seed: 05 | Fitness: 0 | Iterações: 327 | Avaliações: 19620 | Tempo: 164.45s | Solucionado: True
+Instância: sudoku_medio_2 | Execução 07 | Seed: 06 | Fitness: 0 | Iterações: 23 | Avaliações: 1380 | Tempo: 11.28s | Solucionado: True
+Instância: sudoku_medio_2 | Execução 08 | Seed: 07 | Fitness: 0 | Iterações: 200 | Avaliações: 12000 | Tempo: 100.96s | Solucionado: True
+Instância: sudoku_medio_2 | Execução 09 | Seed: 08 | Fitness: 0 | Iterações: 468 | Avaliações: 28080 | Tempo: 235.83s | Solucionado: True
+Instância: sudoku_medio_2 | Execução 10 | Seed: 09 | Fitness: 0 | Iterações: 1445 | Avaliações: 86700 | Tempo: 728.73s | Solucionado: True
+
+===== sudoku_medio_3 =====
+Instância: sudoku_medio_3 | Execução 01 | Seed: 00 | Fitness: 0 | Iterações: 3427 | Avaliações: 205620 | Tempo: 1790.98s | Solucionado: True
+Instância: sudoku_medio_3 | Execução 02 | Seed: 01 | Fitness: 0 | Iterações: 2789 | Avaliações: 167340 | Tempo: 1452.17s | Solucionado: True
+Instância: sudoku_medio_3 | Execução 03 | Seed: 02 | Fitness: 0 | Iterações: 2333 | Avaliações: 139980 | Tempo: 1232.69s | Solucionado: True
+Instância: sudoku_medio_3 | Execução 04 | Seed: 03 | Fitness: 0 | Iterações: 1304 | Avaliações: 78240 | Tempo: 691.67s | Solucionado: True
+Instância: sudoku_medio_3 | Execução 05 | Seed: 04 | Fitness: 0 | Iterações: 47 | Avaliações: 2820 | Tempo: 23.90s | Solucionado: True
+Instância: sudoku_medio_3 | Execução 06 | Seed: 05 | Fitness: 0 | Iterações: 3671 | Avaliações: 220260 | Tempo: 1970.04s | Solucionado: True
+Instância: sudoku_medio_3 | Execução 07 | Seed: 06 | Fitness: 0 | Iterações: 2782 | Avaliações: 166920 | Tempo: 1436.67s | Solucionado: True
+Instância: sudoku_medio_3 | Execução 08 | Seed: 07 | Fitness: 0 | Iterações: 5582 | Avaliações: 334920 | Tempo: 2752.13s | Solucionado: True
+Instância: sudoku_medio_3 | Execução 09 | Seed: 08 | Fitness: 0 | Iterações: 1848 | Avaliações: 110880 | Tempo: 904.82s | Solucionado: True
+Instância: sudoku_medio_3 | Execução 10 | Seed: 09 | Fitness: 0 | Iterações: 2920 | Avaliações: 175200 | Tempo: 1435.38s | Solucionado: True
+
+===== sudoku_medio_4 =====
+Instância: sudoku_medio_4 | Execução 01 | Seed: 00 | Fitness: 4 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2270.91s | Solucionado: False
+Instância: sudoku_medio_4 | Execução 02 | Seed: 01 | Fitness: 4 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2252.61s | Solucionado: False
+Instância: sudoku_medio_4 | Execução 03 | Seed: 02 | Fitness: 5 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2242.52s | Solucionado: False
+Instância: sudoku_medio_4 | Execução 04 | Seed: 03 | Fitness: 4 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2390.61s | Solucionado: False
+Instância: sudoku_medio_4 | Execução 05 | Seed: 04 | Fitness: 3 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2243.05s | Solucionado: False
+Instância: sudoku_medio_4 | Execução 06 | Seed: 05 | Fitness: 5 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2192.51s | Solucionado: False
+Instância: sudoku_medio_4 | Execução 07 | Seed: 06 | Fitness: 4 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2195.11s | Solucionado: False
+Instância: sudoku_medio_4 | Execução 08 | Seed: 07 | Fitness: 5 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2197.53s | Solucionado: False
+Instância: sudoku_medio_4 | Execução 09 | Seed: 08 | Fitness: 4 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2248.73s | Solucionado: False
+Instância: sudoku_medio_4 | Execução 10 | Seed: 09 | Fitness: 5 | Iterações: 6666 | Avaliações: 399960 | Tempo: 2261.42s | Solucionado: False
+
+===== sudoku_medio_5 =====
+Instância: sudoku_medio_5 | Execução 01 | Seed: 00 | Fitness: 2 | Iterações: 6666 | Avaliações: 399960 | Tempo: 1991.14s | Solucionado: False
+Instância: sudoku_medio_5 | Execução 02 | Seed: 01 | Fitness: 2 | Iterações: 6666 | Avaliações: 399960 | Tempo: 1982.96s | Solucionado: False
+Instância: sudoku_medio_5 | Execução 03 | Seed: 02 | Fitness: 0 | Iterações: 1242 | Avaliações: 74520 | Tempo: 369.09s | Solucionado: True
+Instância: sudoku_medio_5 | Execução 04 | Seed: 03 | Fitness: 2 | Iterações: 6666 | Avaliações: 399960 | Tempo: 1974.68s | Solucionado: False
+Instância: sudoku_medio_5 | Execução 05 | Seed: 04 | Fitness: 0 | Iterações: 524 | Avaliações: 31440 | Tempo: 156.48s | Solucionado: True
+Instância: sudoku_medio_5 | Execução 06 | Seed: 05 | Fitness: 2 | Iterações: 6666 | Avaliações: 399960 | Tempo: 1986.35s | Solucionado: False
+Instância: sudoku_medio_5 | Execução 07 | Seed: 06 | Fitness: 0 | Iterações: 1876 | Avaliações: 112560 | Tempo: 558.72s | Solucionado: True
+Instância: sudoku_medio_5 | Execução 08 | Seed: 07 | Fitness: 2 | Iterações: 6666 | Avaliações: 399960 | Tempo: 1978.91s | Solucionado: False
+Instância: sudoku_medio_5 | Execução 09 | Seed: 08 | Fitness: 0 | Iterações: 963 | Avaliações: 57780 | Tempo: 286.74s | Solucionado: True
+Instância: sudoku_medio_5 | Execução 10 | Seed: 09 | Fitness: 2 | Iterações: 6666 | Avaliações: 399960 | Tempo: 1994.28s | Solucionado: False
